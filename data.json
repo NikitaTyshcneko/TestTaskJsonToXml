@@ -1,0 +1,34 @@
+{
+    "result": {
+        "status": "active",
+        "name": {
+            "first": "Kaley",
+            "middle": "James",
+            "last": "Wilderman",
+            "kids": [
+                "X",
+                "Y"
+            ]
+        },
+        "username": "Kaley-Wilderman",
+        "password": "0MN5UzpT6WJCPx_",
+        "emails": [
+            "Kiel88@gmail.com",
+            "Javon84@gmail.com"
+        ],
+        "phoneNumber": "790-274-3174 x842",
+        "location": {
+            "street": "4063 O'Keefe Road",
+            "city": "Bartlett",
+            "state": "New Jersey",
+            "country": "Singapore",
+            "zip": "38602",
+            "coordinates": {
+                "latitude": 39.0617,
+                "longitude": 64.7887
+            }
+        },
+        "website": "https://striped-double.biz",
+        "uuid": "0e044067-e95c-4cb8-90fc-aa3427843ff7"
+    }
+}
