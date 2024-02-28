@@ -40,9 +40,9 @@ def prettify_xml(elem, indent="   "):
 
 def main():
     with open('data.json') as json_file:
-        data = json.load(json_file)
+        json_data = json.load(json_file)
 
-    root_element = dict_to_xml("root", data)
+    root_element = dict_to_xml("root", json_data)
     xml_string = prettify_xml(root_element, indent="   ")
 
     print(xml_string)
